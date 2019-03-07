@@ -39,6 +39,7 @@ h2 {
 @media (max-width: 1200px) {
   h1 {
     font-size: 3rem;
+    color: #333;
   }
 }
 
@@ -49,6 +50,7 @@ h2 {
 
   h1 {
     font-size: 3rem;
+    color: #333;
   }
 }
 
@@ -56,10 +58,12 @@ h2 {
   h1 {
     font-size: 2.5rem;
     text-align: center;
+    color: #333;
   }
 
   h2 {
     font-size: 1.5rem;
     text-align: center;
+    color: #444;
   }
 }
